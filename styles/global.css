@@ -60,7 +60,6 @@ main{
 }
 
 .content-tag{
-    display: inline-block;
     background-color: var(--brand-color-dark);
     padding: 4px 8px;
     border-radius: 4px;
