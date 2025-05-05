@@ -24,8 +24,6 @@ Este é um projeto de portal de notícias desenvolvido com o objetivo de pratica
 
 ## 📷 Prévia
 
-> 💡 Você pode adicionar aqui prints da interface.  
-> Exemplo:  
 > ![screenshot do portal](https://via.placeholder.com/1000x500.png?text=Portal+de+Not%C3%ADcias)
 
 ---
