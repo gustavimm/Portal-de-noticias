@@ -24,7 +24,8 @@ Este é um projeto de portal de notícias desenvolvido com o objetivo de pratica
 
 ## 📷 Prévia
 
-> ![screenshot do portal](https://via.placeholder.com/1000x500.png?text=Portal+de+Not%C3%ADcias)
+![image](https://github.com/user-attachments/assets/9b60cb45-640f-4591-8707-7b60dff280b6)
+
 
 ---
 
